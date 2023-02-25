@@ -42,3 +42,10 @@ Projeto desenvolvido em 25.02.2023 com o intuito de facilitar o acesso de client
 
 Você pode visualizar o projeto através [DESSE LINK](https://www.figma.com/file/20oE6aSB7CcBzh5z5sYfbU/BioLinks(danielsons.jsx)?t=c3JAztMQc3bFP3zJ-0). É necessário ter conta no [Figma](https://Figma.com) para acessá-lo.
 
+## :memo: Licença
+
+Esse projeto está sob a Licença MIT.
+
+---
+
+Feito com 🤍 por [Danielsons](https://instagram.com/danielsons.jsx)''
