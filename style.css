@@ -213,7 +213,7 @@ footer a{
   from {left: 0%;}
   to {left: 50%;}
   from{right: 0%;}
-  to{right: 50%;}
+  to{right: 100%;}
 }
 @keyframes slide-out{
 from{left: 50%;}
