@@ -51,4 +51,4 @@ Esse projeto está sob a Licença MIT.
 
 ---
 
-Feito com 🤍 por [Danielsons](https://instagram.com/_dannielsz)
+Feito com 🤍 por [Daniel](https://instagram.com/_dannielsz)
