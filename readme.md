@@ -1,4 +1,4 @@
-<h1 align="center">BioLinks </h1>
+<h1 align="center">BioLinks</h1>
 
 <p align="center">
 Projeto para facilitar acesso a portifólios, redes sociais e links em geral
